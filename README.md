@@ -1,3 +1,3 @@
 # todo-app
 React / todo-app
-8/2 create
+create 8.2
