@@ -1,3 +1,3 @@
 # todo-app
 React / todo-app
-create 8/2
+8/2 create
